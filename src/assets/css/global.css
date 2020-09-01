@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+html,
+body,
+#app{
+	height: 100%;
+}
+
+.el-card{
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+  }
+
+.el-steps{
+	margin: 15px 0;
+}
+
+.el-step__title{
+	font-size: 13px !important;
+}
+
+.ql-editor{
+	min-height: 300px;
+}
+
+.el-cascader-menu{
+	height: 250px;
+}
+
+  .el-checkbox{
+    margin: 0 10px 0 0 !important;
+  }
+
+  .preview-pic{
+    width: 100%;
+  }
+
+  .add-btn{
+    margin-top: 10px !important;
+  }
+	
+	.el-cascader{
+	  width: 100%;
+	}
+	
+	.el-cascader-menu{
+	  height: 300px;
+	}
+	
+	.el-alert{
+	   margin-bottom: 10px;
+	 }
+	 .lcenter{
+	   height: 40px;
+	   line-height: 40px;
+	 }
+	.input-new-tag{
+	   width: 120px;
+	 }
+	 .el-tag{
+	   margin: 7px;
+	 }
+	 .bdtop{
+	   border-top: 1px solid #eee;
+	 }
+	 .bdbot{
+	   border-bottom: 1px solid #eee;
+	 }
+	 .vcenter{
+	   display: flex;
+	   align-items: center;
+	 }
